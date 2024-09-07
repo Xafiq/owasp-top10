@@ -1,12 +1,12 @@
 # OWASP Top 10 Vulnerabilities Exercises
 
-> By [@rosinni](https://github.com/rosinni) and [other contributors](https://github.com/breatheco-de/configuring-firewall-and-acl-exercise-tutorial/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
+> By [@rosinni](https://github.com/rosinni) and [other contributors](https://github.com/breatheco-de/owasp-top10-exercises/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
 
-![last commit](https://img.shields.io/github/last-commit/breatheco-de/configuring-firewall-and-acl-exercise-tutorial)
+![last commit](https://img.shields.io/github/last-commit/breatheco-de/owasp-top10-exercises)
 [![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://4geeks.com)
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
-*Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/breatheco-de/configuring-firewall-and-acl-exercise-tutorial/blob/main/README.es.md) :es:*
+*Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/breatheco-de/owasp-top10-exercises/blob/main/README.es.md) :es:*
 <!-- endhide -->
 
 ## 📝 Instructions
@@ -30,7 +30,7 @@ In this activity, we will use the BeeBox virtual machine, which contains the vul
 
 ## 🌱 How to start a project?
 
-Clone this repository in your debian virtual machine ([how to clone this repository](https://4geeks.com/how-to/github-clone-repository)) and follow the steps below:
+Clone this repository in your debian virtual machine ([how to clone this repository](https://github.com/breatheco-de/owasp-top10-exercises)) and follow the steps below:
 
 1. Install LearnPack, the package manager for learning tutorials and the node compiler plugin for learnpack, make sure you also have node.js 14:
 
