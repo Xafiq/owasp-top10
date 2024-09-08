@@ -1,5 +1,8 @@
 # `01` Broken Access Control - Insecure DOR (Change Secret)
 
+**Broken Access Control** son vulnerabilidades en las aplicaciones web que ocurre cuando los controles que restringen el acceso a recursos o funcionalidades no están implementados correctamente. Esto permite a los atacantes eludir las restricciones de acceso, lo que les da la capacidad de ver, modificar o interactuar con datos o funcionalidades a los que no deberían tener acceso. Para este ejercicio intentaremos explotar el hack **Insecure DOR**, para intentar modificar el valor del parámetro de usuario en la solicitud para cambiar el secreto de otra cuenta.
+
+
 ### **Crear un nuevo usuario**
 
 1. Inicia la máquina virtual beebox.
