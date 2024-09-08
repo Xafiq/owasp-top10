@@ -34,3 +34,5 @@ Broken authentication is a critical security vulnerability that arises when web 
 
 > ⚠ When the system does not properly invalidate the user's session after logging out, critical vulnerabilities arise. Although the user appears to have logged out, the server does not effectively invalidate the session, exposing the possibility for attackers to gain unauthorized access to the account, especially on a shared device where the previous user did not properly log out.
 
+If you achieved the expected results, congratulations! Move on to the next lesson. `-->`
+

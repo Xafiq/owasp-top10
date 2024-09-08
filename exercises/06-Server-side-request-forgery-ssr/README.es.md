@@ -40,4 +40,6 @@ http://localhost/evil/ssrf-1.txt
 Observa cómo el servidor ha sido manipulado para hacer solicitudes a sí mismo o a otros servicios internos, lo que permite obtener información sobre la infraestructura. Esto te permite comprender cómo un servidor mal configurado puede ser utilizado como intermediario para acceder a recursos internos y comprometer la seguridad de una organización.
 
 
+Si lograste los resultados esperados, ¡felicitaciones! ve a la siguiente leccion `-->`
+
 

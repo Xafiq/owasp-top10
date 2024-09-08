@@ -68,6 +68,7 @@ Al enviar el formulario, el script se ejecutará, mostrando una alerta con el me
 
 **Ambos métodos permiten ejecutar scripts maliciosos en el navegador de la víctima si la página no sanitiza adecuadamente las entradas, pero cada uno tiene sus particularidades en cuanto a la explotación y visibilidad.**
 
+Si lograste los resultados esperados, ¡felicitaciones! ve a la siguiente leccion `-->`
 
 
 

@@ -38,3 +38,6 @@
     ![image 4](../../.learn/assets/gourlalert.png)
 
 Observe how the server has been manipulated to make requests to itself or other internal services, allowing information about the infrastructure to be obtained. This demonstrates how a misconfigured server can be used as an intermediary to access internal resources and compromise an organization's security.
+
+
+If you achieved the expected results, congratulations! Move on to the next lesson. `-->`

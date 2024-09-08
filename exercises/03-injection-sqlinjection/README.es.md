@@ -99,4 +99,6 @@ Esto te mostrará los nombres de usuario y sus contraseñas.
 ![imagen 6](../../.learn/assets/sensitive-infosql.png)
 
 
+Si lograste los resultados esperados, ¡felicitaciones! ve a la siguiente leccion `-->`
+
 

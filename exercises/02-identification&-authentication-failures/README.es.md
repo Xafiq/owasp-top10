@@ -34,6 +34,8 @@ La autenticación rota es una vulnerabilidad de seguridad crítica que surge cua
 
 > ⚠ Cuando el sistema no invalida correctamente la sesión del usuario después de cerrar sesión, encontraremos vulnerabilidades críticas; ya que aunque el usuario aparentemente cierra sesión, el servidor no invalida la sesión de manera efectiva y esto expone a los atacantes la posibilidad de acceder a una cuenta sin autorización, especialmente si utiliza un dispositivo compartido donde el usuario anterior no haya cerrado sesión correctamente.
 
+Si lograste los resultados esperados, ¡felicitaciones! ve a la siguiente leccion `-->`
+
 
 
 

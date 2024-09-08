@@ -66,3 +66,7 @@
 - **POST**: The data is sent in the body of the request, making the attack less visible but more difficult to execute and share without user interaction.
 
 **Both methods allow malicious scripts to execute in the victim's browser if the page does not properly sanitize input, but each has its own characteristics in terms of exploitation and visibility.**
+
+
+
+If you achieved the expected results, congratulations! Move on to the next lesson. `-->`

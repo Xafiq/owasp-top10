@@ -95,3 +95,6 @@ Now that you have obtained the database name and the server version, you can exp
     This will display the usernames and their passwords.
     
     ![image 6](../../.learn/assets/sensitive-infosql.png)
+
+
+If you achieved the expected results, congratulations! Move on to the next lesson. `-->`

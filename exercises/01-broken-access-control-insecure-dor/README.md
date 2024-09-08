@@ -46,9 +46,6 @@ SELECT * FROM users;
 
 1. Log back in as the default user `bee`.
 2. Select the **Insecure DOR (Change Secret)** vulnerability and click "Hack".
-
-   ![image 3](../../.learn/assets/hack.png)
-
 3. Inspect the HTML Form.
 
    - Once on the "secret" change page, right-click on the field where the new "secret" is entered and select "Inspect" (or use the browser's developer tools).
@@ -79,5 +76,8 @@ SELECT * FROM users;
 > You should see that the "secret" has changed to hello geeks.
 
 ![image 6](../../.learn/assets/secretgeeks.png)
+
+
+If you achieved the expected results, congratulations! Move on to the next lesson. `-->`
 
 

