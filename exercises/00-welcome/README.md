@@ -4,7 +4,7 @@ Before starting this exercise, ensure that your [bWAPP environment](https://4gee
 
 ## 💬 Understanding the OWASP Top 10
 
-The **OWASP Top 10** is a list of the most critical security vulnerabilities in web applications, compiled by the Open Web Application Security Project (OWASP). Each vulnerability on this list represents a significant security risk to applications and can be exploited by attackers to gain unauthorized access, steal sensitive data, or compromise the integrity of the application. Here’s why understanding and addressing these vulnerabilities is crucial:
+The **[OWASP Top 10](https://4geeks.com/lesson/owasp-top-10)** is a list of the most critical security vulnerabilities in web applications, compiled by the Open Web Application Security Project (OWASP). Each vulnerability on this list represents a significant security risk to applications and can be exploited by attackers to gain unauthorized access, steal sensitive data, or compromise the integrity of the application. Here’s why understanding and addressing these vulnerabilities is crucial:
 
 ### **The OWASP Top 10 Vulnerabilities are:**
 
