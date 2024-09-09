@@ -4,7 +4,7 @@ Antes de comenzar esta práctica, asegúrate de que tu [entorno de bWAPP](https:
 
 ## 💬 Comprendiendo el OWASP Top 10
 
-El **OWASP Top 10** es una lista de las vulnerabilidades de seguridad más críticas en aplicaciones web, elaborada por la Open Web Application Security Project (OWASP). Cada vulnerabilidad en esta lista representa un riesgo significativo para la seguridad de las aplicaciones y puede ser explotada por atacantes para obtener acceso no autorizado, robar datos sensibles o comprometer la integridad de la aplicación. Aquí te explicamos por qué es crucial entender y abordar estas vulnerabilidades:
+El **[OWASP Top 10](https://4geeks.com/es/lesson/que-es-owasp-top-10)** es una lista de las vulnerabilidades de seguridad más críticas en aplicaciones web, elaborada por la Open Web Application Security Project (OWASP). Cada vulnerabilidad en esta lista representa un riesgo significativo para la seguridad de las aplicaciones y puede ser explotada por atacantes para obtener acceso no autorizado, robar datos sensibles o comprometer la integridad de la aplicación. Aquí te explicamos por qué es crucial entender y abordar estas vulnerabilidades:
 
 ### **Las Vulnerabilidades del OWASP Top 10 son:**
 
