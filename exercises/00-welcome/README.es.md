@@ -1,6 +1,6 @@
 # `00` ¡Bienvenid@!
 
-Antes de comenzar esta práctica, asegúrate de que tu entorno de bWAPP esté en funcionamiento y que puedas acceder a él desde tu navegador.
+Antes de comenzar esta práctica, asegúrate de que tu [entorno de bWAPP](https://4geeks.com/es/interactive-coding-tutorial/instalacion-de-bwapp-usando-una-maquina-virtual-beebox) esté en funcionamiento y que puedas acceder a él desde tu navegador.
 
 ## 💬 Comprendiendo el OWASP Top 10
 
