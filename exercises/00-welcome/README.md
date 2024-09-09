@@ -1,6 +1,6 @@
 # `00` Welcome!
 
-Before starting this exercise, ensure that your bWAPP environment is up and running and that you can access it from your browser.
+Before starting this exercise, ensure that your [bWAPP environment](https://4geeks.com/interactive-coding-tutorial/bwapp-beebox-virtual-machine-installation-configuration) is up and running and that you can access it from your browser.
 
 ## 💬 Understanding the OWASP Top 10
 
