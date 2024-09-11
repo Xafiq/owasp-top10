@@ -1,5 +1,4 @@
-# `08` Cryptographic Failures - Weak Password Hashing. 
-Hashing Débil de Contraseñas
+# `08` Fallos de criptografía - Hashing Débil de Contraseñas
 
 
 Una implementación débil de hashing de contraseñas representa una vulnerabilidad critica de **fallos criptográficos**, ya que en lugar de almacenar las contraseñas en texto plano, estas deben ser hasheadas (convertidas a un valor no reversible mediante un algoritmo criptográfico) antes de ser almacenadas en una base de datos. Sin embargo, si se utilizan algoritmos de hash débiles o inadecuados, como MD5 o SHA-1 (que ya no son seguros), los atacantes pueden crackearlos fácilmente usando técnicas como ataques de diccionario o fuerza bruta.
