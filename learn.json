@@ -2,7 +2,7 @@
   "grading": "isolated",
   "difficulty": "intermediate",
   "duration": 4,
-  "technologies": ["cybersecurity", "pentesting", "red team", "ciberseguridad"],
+  "technologies": ["cybersecurity", "pentesting", "red team", "ciberseguridad", "owasp", "owasp top 10"],
   "preview": "https://github.com/breatheco-de/owasp-top10-exercises/blob/main/oswap-top-10.png?raw=true",
   "description": {
     "us": "Master red team tactics with dozens of hands-on exercises focused on exploiting the OWASP Top 10 vulnerabilities. Perfect for ethical hackers and penetration testers looking to sharpen their offensive security skills.",
@@ -12,5 +12,9 @@
     "es": "Domina Ejercicios de Red Team: Explota las Vulnerabilidades del OWASP Top 10",
     "us": "Master Red Team Exercises: Exploit the OWASP Top 10 Vulnerabilities"
   },
-  "slug": "owasp-top10-exercises"
+  "slug": "owasp-top10-exercises",
+  "localhostOnly": true,
+  "editor": {
+    "version": "4.0.0"
+  }
 }
